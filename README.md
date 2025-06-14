@@ -10,6 +10,10 @@ These scripts are designed to be **lightweight, practical, and easy to use** —
 
 Feel free to fork, improve, or suggest new ideas and scripts. Pull requests are welcome!
 
+---
+
 # 🙋‍♂️ About the Author
 
 Maintained by Kaartoos – cybersecurity enthusiast and system tinkerer. Always building something useful 🧠💻
+
+---
