@@ -24,7 +24,7 @@ This script automates the installation and configuration of Wazuh, a powerful se
 
 ### Prerequisites
 
-- A compatible operating system (e.g., Ubuntu, CentOS).
+- A compatible operating system (has been tested on Ubuntu 22.04, use this version only).
 - Sufficient permissions to execute installation commands.
 - Internet access to download necessary files.
 
@@ -33,9 +33,7 @@ This script automates the installation and configuration of Wazuh, a powerful se
 1. **Download the Script**: Save the script to your local machine.
 
 2. **Make the Script Executable**:
-   ```bash
    chmod +x <script-name>.sh
-   ```
 
 3. **Run the Script**:
    ./<script.sh
